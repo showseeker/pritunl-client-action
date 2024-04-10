@@ -40,7 +40,7 @@ inputs:
   established-connection-timeout:
     description: 'Wait for Established Connection Timeout.'
     required: false
-    default: '30'
+    default: '60'
 
 outputs:
   client-id:

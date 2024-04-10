@@ -83,7 +83,7 @@ The configuration is declarative and relatively simple to use.
     established-connection-timeout: ''
     # OPTIONAL: Established Connection Timeout
     # TYPE: Natural Numbers (Unit of time in Second)
-    # If not supplied, which defaults to `30` seconds.
+    # If not supplied, which defaults to `60` seconds.
 ```
 
 > [!IMPORTANT]
